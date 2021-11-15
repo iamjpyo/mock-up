@@ -4,12 +4,14 @@ import React, {useState} from 'react';
 
     return (
         <div>
-            <iframe
-                src="https://www.twitch.tv/videos/1197094280&autoplay=false"
-                height="400"
-                width="600"
-                allowfullscreen="true">
-            </iframe>
+
+<iframe
+src="https://clips.twitch.tv/embed?clip=IncredulousAbstemiousFennelImGlitch&parent=localhost&parent=localhost"
+height="360"
+width="640"
+allowfullscreen="true">
+</iframe>
+
         </div>
     )
 }
